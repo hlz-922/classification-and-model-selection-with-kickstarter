@@ -1,4 +1,4 @@
-# supervised-learning-classification-and-model-selection-with-kickstarter
+# classification-and-model-selection-with-kickstarter
 
 ### **Project Description:**
 
